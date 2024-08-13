@@ -1,0 +1,16 @@
+.single-product {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .product-details img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .product-details h1 {
+    color: #4caf50;
+    margin-bottom: 20px;
+  }
+  
